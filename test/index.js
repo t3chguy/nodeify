@@ -1,3 +1,5 @@
+'use strict';
+
 require('mocha-as-promised')();
 const assert = require('assert');
 const Promise = require('../');
