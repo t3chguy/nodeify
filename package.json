@@ -1,6 +1,6 @@
 {
-  "name": "nodeify",
-  "version": "1.0.1",
+  "name": "nodifiedPromise",
+  "version": "1.0.0",
   "description": "Convert promised code to use node style callbacks",
   "scripts": {
     "test": "mocha -R spec",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/then/nodeify.git"
+    "url": "https://github.com/t3chguy/nodeify.git"
   },
   "keywords": [
     "promise",
@@ -16,14 +16,10 @@
     "nodeify",
     "callback"
   ],
-  "author": "ForbesLindesay",
+  "author": "Michael Telatynski <7t3chguy@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "mocha": "~1.8.1",
     "mocha-as-promised": "~1.2.1"
-  },
-  "dependencies": {
-    "promise": "~1.3.0",
-    "is-promise": "~1.0.0"
   }
 }
