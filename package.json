@@ -1,5 +1,5 @@
 {
-  "name": "nodifiedPromise",
+  "name": "nodified_promise",
   "version": "1.0.0",
   "description": "Convert promised code to use node style callbacks",
   "scripts": {
